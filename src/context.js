@@ -41,6 +41,7 @@ const AppProvider = ({ children }) => {
     fetchDrinks();
   }, [searchTerm, fetchDrinks]);
 
+  // Whenever the value prop here is changed the app will re render.
   return (
     <AppContext.Provider
       value={{ loading, cocktails, setSearchTerm, setLoading }}
