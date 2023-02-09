@@ -1,15 +1,5 @@
 # Cocktails DB 
-Welcome to Cocktails DB. This app was built following a tutorial as part of the <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 React Projects</a> course by John Smilga. 
-
-## Table of Contents
-* [General Info](#general-information)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Project Status](#project-status)
-
-## General Information
-
-## Features
+Welcome to Cocktails DB. This app was built following a tutorial as part of the <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 React Projects</a> course by John Smilga. This project utilises an external API to fetch cocktail data based on user input. 
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/99369057/217780836-11d4eae4-8e2e-41e8-a176-dbd013aadcf2.png" width="600">
