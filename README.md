@@ -1,5 +1,5 @@
 # Cocktails DB 
-Welcome to Cocktails DB. This app was built following a tutorial as part of <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 react projects</a> course by John Smilga. 
+Welcome to Cocktails DB. This app was built following a tutorial as part of the <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 React Projects</a> course by John Smilga. 
 
 ## Table of Contents
 * [General Info](#general-information)
