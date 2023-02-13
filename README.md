@@ -1,5 +1,7 @@
 # Cocktails DB 
-Welcome to Cocktails DB. This app was built following a tutorial as part of the <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 React Projects</a> course by John Smilga. This project utilises an external API to fetch cocktail data based on user input. 
+Welcome to Cocktails DB. This app was built following a tutorial as part of the <a href='https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=32019s'>Code 15 React Projects</a> course by John Smilga. This project fetches data from an external API based on user input.
+
+To view the hosted application and start using the app please click <a href='https://aidancocktaildb.web.app/'>here.</a>
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/99369057/217780836-11d4eae4-8e2e-41e8-a176-dbd013aadcf2.png" width="600">
